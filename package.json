@@ -1,0 +1,17 @@
+{
+  "name": "useful-modules",
+  "version": "1.0.0",
+  "description": "sandbox for testing some npm modules",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "seyton35",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "nodemon": "^2.0.7"
+  }
+}
